@@ -1,0 +1,49 @@
+#classic {
+padding: 1em 1em 0 1em;
+}
+
+#modern {
+text-align: center;
+background-color: goldenrod;
+padding: 1em 1em 0 1em;
+font-family: sans-serif;
+}
+
+#impact {
+padding: 1em 1em 0 1em;
+font-family: sans-serif;
+background-color: limegreen;
+text-align: center;
+border: 10px groove black;
+border-style: double;  
+}
+
+#elise {
+font-family: 'Yusei Magic', sans-serif;
+margin-bottom: 1em;
+padding: 1em;
+box-shadow: 2px 2px 4px silver;
+
+}
+
+#one, #two  {
+background-color: aquamarine;
+text-align: center;
+border: 10px groove mediumaquamarine;
+font-family: sans-serif;
+border-style: double;
+padding: 1em 1 em 0 1em;
+display: inline-block;
+}
+
+#gaudi {
+background-color: lightsalmon;
+text-align: center;
+font-family: sans-serif;
+padding: 1em 1 em 0 1em;
+border-radius: 10% 25%;
+}
+
+
+
+
